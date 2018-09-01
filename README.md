@@ -1,2 +1,2 @@
 # zanz1
-zmi open citioes
+zmi open cities
